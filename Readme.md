@@ -13,6 +13,6 @@ see prediction.ipynb
 
 - color_images.fits : the mock KiDS images.
 - results/kids_lens.fits : the KiDS lens candidates.
-- GGL_UNet_diffusion_model : pre-trained model, the weight file is missing due to the limited storage of Github (>20MB). You can find it in: to be uploaded soon...
+- GGL_UNet_diffusion_model : pre-trained model, the model weights file.
 
 ## If you used the code here, please cite our paper Zhong et al. 2024.
